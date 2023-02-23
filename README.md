@@ -8,7 +8,7 @@ REQUIREMENTS
 STEPS
   1. Clone the repository.
   2. Go to the folder that contains the main.py file.
-  3. Ejecuta el comando: py main.py
+  3. Run the command: py main.py
   
 USAGE CONSIDERATIONS
   - The system allows browsing in 2 menus: main and secondary.
