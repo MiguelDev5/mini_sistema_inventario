@@ -41,6 +41,6 @@ CONSIDERACIONES DE USO
   - El menú secundario te ofrecerá 2 acciones:
       1. Repetir la acción seleccionada anteriormente (Esta opción podría ser: agregar, eliminar o actualizar).
       2. Ir al menú principal.
-  - Si escribe EXIT en cualquier momento en que el programa le solicite datos, finalizará el programa.
+  - Si escribe SALIR en cualquier momento en que el programa le solicite datos, finalizará el programa.
     
 Gracias por leernos.
