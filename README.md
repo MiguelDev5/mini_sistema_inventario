@@ -24,7 +24,7 @@ USAGE CONSIDERATIONS
 
 Thanks for reading us.
 
-=============================================================================================================
+=================================================================================
 
 PASOS
    1. Clona el repositorio.
@@ -32,15 +32,15 @@ PASOS
    3. Ejecuta el comando: py main.py
    
 CONSIDERACIONES DE USO
-    - El sistema permite navegar en 2 menús: principal y secundario.
-    - El Menú Principal te ofrecerá 4 acciones:
-        1. Agregar: Le permite agregar un producto, le pedirá el nombre, precio y stock del producto.
-        2. Eliminar: Le permite eliminar un producto, debe ingresar el número de producto.
-        3. Actualizar: Le permite modificar un producto existente, debe ingresar el número de producto.
-        4. Salir: El programa finalizará.
-    - El menú secundario te ofrecerá 2 acciones:
-        1. Repetir la acción seleccionada anteriormente (Esta opción podría ser: agregar, eliminar o actualizar).
-        2. Ir al menú principal.
-    - Si escribe EXIT en cualquier momento en que el programa le solicite datos, finalizará el programa.
+  - El sistema permite navegar en 2 menús: principal y secundario.
+  - El Menú Principal te ofrecerá 4 acciones:
+      1. Agregar: Le permite agregar un producto, le pedirá el nombre, precio y stock del producto.
+      2. Eliminar: Le permite eliminar un producto, debe ingresar el número de producto.
+      3. Actualizar: Le permite modificar un producto existente, debe ingresar el número de producto.
+      4. Salir: El programa finalizará.
+  - El menú secundario te ofrecerá 2 acciones:
+      1. Repetir la acción seleccionada anteriormente (Esta opción podría ser: agregar, eliminar o actualizar).
+      2. Ir al menú principal.
+  - Si escribe EXIT en cualquier momento en que el programa le solicite datos, finalizará el programa.
     
 Gracias por leernos.
