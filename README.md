@@ -1,4 +1,4 @@
-# mini_sistema_inventario
+# MINI SISTEMA DE INVENTARIO
 # Aplicación hecha en Python.
 # Author: Miguel Angel Medina Coaquira
 
@@ -24,7 +24,7 @@ USAGE CONSIDERATIONS
 
 Thanks for reading us.
 
-=================================================================================
+=========================================================================
 
 PASOS
    1. Clona el repositorio.
